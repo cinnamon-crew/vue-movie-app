@@ -53,6 +53,8 @@ export default {
     // },
     // name() {
     //   return this.$store.state.about.name;
+    //
+    //
     // },
   },
   methods: {
